@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+
+h1 {
+    color: #4382e2;
+    display: flex;
+    justify-content: center;
+}
+
+
+.lottie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
+
+a {
+    color: #4382e2;
+}
+
+a:hover {
+    color: #eebe70;
+}
